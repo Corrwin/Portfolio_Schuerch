@@ -1,89 +1,68 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Corwin Schuerch's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Corwin Schuerch
+Introductory Data Analyst
+CorwinSchuerch@gmail.com
+720-233-4960
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Graduating in Data Science within a year
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Coding, Data Visualization and Wrangling
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-April 2018`
+__Lakewood High School, Lakewood, CO__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- 3.54 GPA with 11 college credit from concurrent enrollment at Red Rocks Community College
 
-- Sizar
+`September 2018 - December 2019, 2022-Current`
+__Brigham Young University - Idaho__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Data Science Major, full time
 
 
+## Awards and Activities
 
-## Awards
+`2016`
 
-`2012`
-President, *Royal Society*, London, UK
+Boy Scouts of America - Eagle Scout
 
-Associate, *French Academy of Science*, Paris, France
+`2018`
 
+CompTIA Network+ Certification
 
+`2020-2022`
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Full-time LDS Mission
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+## Experience
 
-- Warden
-- Minted coins
+`2018`
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+First job - McDonald's
+
+`2021-2022`
+
+Full-time Volunteer
+
+-English Teacher, Porject Worthmoore
+-Construction & Painting, Habitat for Humanity
+-Shelf and Volunteer Orginizing, Little Flower Emergency Assistance Center
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2025 -->
